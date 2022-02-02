@@ -1,4 +1,4 @@
-## Invitation to the constitutive meeting of Digital twin Web Association
+## Invitation to the constitutive meeting of Digital Twin Web Association
 
 *2 February 2022 by Juuso Autiosalo*
 
