@@ -1,9 +1,6 @@
----
-layout: post
-title: "Invitation to the constitutive meeting of Digital twin Web Association"
-date: 2022-02-02 14:22:02 +0200
-Author: Juuso Autiosalo
----
+## Invitation to the constitutive meeting of Digital twin Web Association
+
+*2 February 2022 by Juuso Autiosalo*
 
 Welcome to the constitutive meeting of Digital Twin Web Association on 22nd February 2022 at 2:22 pm (UTC+2), online. Register [here](https://dtwa.org/register-to-constitutive-meeting) or send me email to get a link to the online meeting and to join to the upcoming mailing list.
 
