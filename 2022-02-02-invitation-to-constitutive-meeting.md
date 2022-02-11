@@ -6,8 +6,8 @@ Welcome to the constitutive meeting of Digital Twin Web Association on 22nd Febr
 
 ### Purpose
 
-The purpose of new association will be to facilitate the development of Digital Twin Web into an inclusive human, machine, and business-friendly environment, promoting open knowledge sharing.
-The specifics of the purpose will be agreed in the meeting.
+The purpose of the new association will be to facilitate the development of Digital Twin Web into an inclusive human, machine, and business-friendly environment, promoting open knowledge sharing.
+The specifics of the purpose will be agreed upon in the meeting.
 
 The Digital Twin Web approach is similar to the World Wide Web, but aims to combine the physical and digital worlds into a phygital world.
 Currently, my [doctoral dissertation](http://urn.fi/URN:ISBN:978-952-64-0621-3) is the best single source of information to describe the Digital Twin Web initiative.
@@ -51,9 +51,18 @@ I am available as the chair.
 Please express your interest in joining the board preferably in advance to [juuso.autiosalo@aalto.fi](mailto:juuso.autiosalo@aalto.fi).
 If you are unsure whether you should apply board membership, I can explain more as I have experience from more than 10 years in association boards, including 3 years as chair.
 
-A [charter](https://www.prh.fi/en/yhdistysrekisteri/perustaminen/start-up_notification/charter_of_association.html) is a  required document for registering an association.
+A [charter](https://www.prh.fi/en/yhdistysrekisteri/perustaminen/start-up_notification/charter_of_association.html) is a required document for registering an association.
 The people and entities signing the charter will become the founding members of the association.
 I am trying to find an online platform that makes signing easy, recommendations are welcome.
+
+
+**_Update 11 Feb 2022_**
+
+Estimated length of the meeting is 2 hours and 22 minutes. Of course you can leave early or come late if you need to.
+
+There are currently 41 registered participants from approximately 11 countries and 31 organizations. You can let people know about your interest in this topic by attending the [LinkedIn event](https://www.linkedin.com/events/constitutivemeetingofdigitaltwi6897831971515461632/) for this meeting.
+
+Google Forms [registration](https://dtwa.org/register-to-constitutive-meeting) has caused problems for some, sorry for that. I will use something else next time. Please send me email to [juuso.autiosalo@aalto.fi](mailto:juuso.autiosalo@aalto.fi) if that is easier way to register.
 
 
 ### TL;DR
