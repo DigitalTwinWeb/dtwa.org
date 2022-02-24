@@ -2,7 +2,7 @@
 
 *2 February 2022 by Juuso Autiosalo* 
 
-*<sup>Updated 18 Feb 2022</sup>*
+*<sup>Updated 24 Feb 2022</sup>*
 
 
 Welcome to the constitutive meeting of Digital Twin Web Association on 22nd February 2022 at 2:22 pm (UTC+2), online.
@@ -10,6 +10,8 @@ Register [here](https://dtwa.org/register-to-constitutive-meeting) or [send me e
 Estimated length of the meeting is 2 hours and 22 minutes. Of course you can leave early or come late if you need to.
 
 [Please register to get the Zoom link](https://dtwa.org/register-to-constitutive-meeting)
+
+Update: You can sign up for future updates with the same form until we have a proper membership application form.
 
 ### Purpose
 
@@ -65,7 +67,7 @@ I am trying to find an online platform that makes signing easy, recommendations 
 
 **_Updates_**
 
-There are currently 73 registered participants from approximately 17 countries and 45 organizations. You can let people know about your interest in this topic by attending the [LinkedIn event](https://www.linkedin.com/events/constitutivemeetingofdigitaltwi6897831971515461632/) for this meeting.
+There are currently (18 Feb 2022) 73 registered participants from approximately 17 countries and 45 organizations. You can let people know about your interest in this topic by attending the [LinkedIn event](https://www.linkedin.com/events/constitutivemeetingofdigitaltwi6897831971515461632/) for this meeting.
 
 Google Forms [registration](https://dtwa.org/register-to-constitutive-meeting) has caused problems for some, sorry for that. I will use something else next time. Please send me email to [juuso.autiosalo@aalto.fi](mailto:juuso.autiosalo@aalto.fi) if that is easier way to register.
 
