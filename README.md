@@ -4,7 +4,8 @@ This association is being constituted. Check back later or contact [Juuso](https
 
 Posts:
 
-- [Invitation to the constitutive meeting of Digital twin Web Association](https://dtwa.org/2022-02-02-invitation-to-constitutive-meeting)
+- 2 Feb 2022 - [Invitation to the constitutive meeting of Digital twin Web Association](https://dtwa.org/2022-02-02-invitation-to-constitutive-meeting)
+- 22 Feb 2023 - [The State of the Digital Twin Web](https://www.dtwa.org/2023-02-22-state-of-dtw)
 
 Events:
 
