@@ -41,3 +41,7 @@ Best,
 [Juuso](https://juu.so)
 
 &nbsp;
+
+P.S. You may comment this post in [LinkedIn](https://www.linkedin.com/posts/juuso-autiosalo_the-state-of-the-digital-twin-web-activity-7034192518799843328-Wzqg)
+
+&nbsp;
